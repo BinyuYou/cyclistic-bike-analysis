@@ -57,4 +57,18 @@ Understand how annual members and casual riders use Cyclistic bikes differently,
 ---
 
 ## 📌 Recommendations
-Launch weekend membership discounts** to encourage conversion of casual users.
+
+1. **Launch weekend membership discounts** to encourage conversion of casual users.
+2. **Target commuting routes** with benefits messaging for members.
+3. **Use digital campaigns** on high-casual-use days (Saturdays/Sundays).
+
+---
+
+## 📸 Visualizations
+
+(You can insert image files or links here — examples below:)
+
+- ![Ride Duration by User Type](images/ride_duration.png)
+- ![Weekly Usage Trends](images/weekly_trends.png)
+
+---
