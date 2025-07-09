@@ -72,3 +72,19 @@ Understand how annual members and casual riders use Cyclistic bikes differently,
 - ![Weekly Usage Trends](images/weekly_trends.png)
 
 ---
+## Analysis Summary
+
+To analyze Cyclistic bike-share usage, I followed the structured data analysis process using Excel. I worked with two cleaned datasets covering multiple months, merged them into a single file, and calculated the following key metrics:
+
+- **ride_length**: Calculated by subtracting `started_at` from `ended_at` for each ride.
+- **day_of_week**: Extracted using Excel's `WEEKDAY()` function to analyze weekly trends.
+
+I conducted descriptive analysis using pivot tables:
+
+- **Average ride length** for members vs. casual riders
+- **Number of rides** by member type and day of the week
+- **Average ride length** by day of the week
+
+These insights allowed me to identify usage patterns that can inform marketing strategies aimed at converting casual riders into annual members.
+
+
