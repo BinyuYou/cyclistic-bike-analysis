@@ -2,7 +2,7 @@
 
 This project contains analysis on ride lengths for casual and member riders.
 
-For detailed insights and conclusions, see the [Ride Length Analysis](ride_analysis.md).
+For detailed insights and conclusions, see the [Ride Length Analysis](ride_analysis_in_2020.md).
 
 # Ride Length Analysis Insights
 
