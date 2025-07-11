@@ -51,7 +51,7 @@ Understand how annual members and casual riders use Cyclistic bikes differently,
 
 This project contains analysis on ride lengths for casual and member riders.
 
-For detailed insights and conclusions, see the [Ride Length Analysis](ride_analysis_in_2020.md).
+For detailed insights and conclusions, see the [Ride Length Analysis](ride_analysis_in_2019.md) and [Ride Length Analysis](ride_analysis_in_2020.md) 
 
 ## 📈 Key Findings
 
