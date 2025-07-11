@@ -55,10 +55,9 @@ For detailed insights and conclusions, see the [Ride Length Analysis](ride_analy
 
 ## 📈 Key Findings
 
-- **Casual riders** take longer rides, mainly on **weekends**
+- **Casual riders** take longer rides average ride lengths than member riders across all time periods.
+- **Ride length** increases in later periods.
 - **Members** take shorter, more frequent rides, mostly on **weekdays**
-- Certain stations are more popular with one group over the other
-
 ---
 
 ## 📌 Recommendations
